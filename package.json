@@ -11,7 +11,7 @@
     "express",
     "mysql"
   ],
-  "author": "nikita_sharma",
+  "author": "avnish",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
